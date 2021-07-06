@@ -1,6 +1,6 @@
 # DOM-Manipulation
 
-
+In this project I will be examining the Document Object.
 
 ## Built With
 
